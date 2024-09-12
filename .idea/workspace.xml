@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5666d96d-3a3d-4b0e-b9da-2b321c7f9913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proyecto1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alumnos/BotonGuardarListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alumnos/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alumnos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alumnos/alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alumnos/frmAlumnos.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/alumnos/frmAlumnos.java" afterDir="false" />
+    <list default="true" id="5666d96d-3a3d-4b0e-b9da-2b321c7f9913" name="Changes" comment="Se agregó un metodo para calcular la edad por medio de la CURP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alumnos/alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/alumnos/alumno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnononB"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnononB/Proyecto_1.git",
+    "accountId": "38c58dd2-1b4f-4cbd-b70f-f7cebcc4a7c5"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -85,8 +87,17 @@
       <option name="presentableId" value="Default" />
       <updated>1725917051077</updated>
       <workItem from="1725917052185" duration="2104000" />
-      <workItem from="1726109322026" duration="1836000" />
+      <workItem from="1726109322026" duration="2982000" />
     </task>
+    <task id="LOCAL-00001" summary="Se agregó un metodo para calcular la edad por medio de la CURP">
+      <option name="closed" value="true" />
+      <created>1726111328202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726111328202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se agregó un metodo para calcular la edad por medio de la CURP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregó un metodo para calcular la edad por medio de la CURP" />
   </component>
 </project>
